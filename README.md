@@ -95,7 +95,7 @@ Precautions:
 > This function and tutorial are provided by [FranzKafkaYu](https://github.com/FranzKafkaYu)
 
 X-UI supports daily traffic notification, panel login reminder and other functions through Tg robot. To use Tg robot, you need to apply for it yourself
-For specific application tutorials, please refer to [blog link] (https://coderfan.net/how-to-use-telegram-bot-to-alarm-you-when-someone-login-into-your-vps.html)
+For specific application tutorials, please refer to [blog link](https://coderfan.net/how-to-use-telegram-bot-to-alarm-you-when-someone-login-into-your-vps.html)
 Instructions for use: Set robot-related parameters in the background of the panel, including
 
 - Tg Robot Token
