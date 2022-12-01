@@ -22,7 +22,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/CurlyLucifer/x-ui/master/insta
 
 ## Manual installation & upgrade
 
-1. First download the latest compressed package from https://github.com/vaxilu/x-ui/releases, generally choose the `amd64` architecture
+1. First download the latest compressed package from https://github.com/CurlyLucifer/x-ui/releases, generally choose the `amd64` architecture
 2. Then upload this compressed package to the `/root/` directory of the server, and use the `root` user to log in to the server
 > If your server cpu architecture is not `amd64`, replace `amd64` in the command with other architectures
 
